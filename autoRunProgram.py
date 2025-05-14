@@ -536,7 +536,7 @@ class AutoRunProgramGUI:
         try:
             self.log("准备关机...")
             # 执行关机命令
-            os.system("shutdown /s /t 0")
+            os.system("shutdown /s /f /t 0")
 
         except Exception as e:
             self.log(f"关机时出错: {str(e)}")
