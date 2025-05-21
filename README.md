@@ -7,6 +7,10 @@
 2. **自动注册工具** - 自动完成某些网站的注册流程，目前支持 Nosec 网站。
 3. **ForceBindIP GUI** - 用户有多网卡，允许用户指定程序流量走指定网卡。
 
+![image](https://github.com/user-attachments/assets/471be86e-09ec-48b6-add4-5247b881f47f)
+
+![image](https://github.com/user-attachments/assets/3eb57ce6-1ef3-42e4-b185-5335736289d3)
+
 ## 工具 1: 多程序定时执行工具
 
 ### 功能
